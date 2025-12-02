@@ -1,0 +1,6 @@
+# NTFS Forensic Parser Dependencies
+
+# Core dependencies
+construct>=2.10.68      # Binary structure parsing
+tqdm>=4.65.0           # Progress bar
+libewf-python>=20231119
